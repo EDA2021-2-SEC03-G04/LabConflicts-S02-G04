@@ -29,3 +29,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 
 Estudiante 1: David Burgos Mendez - d.burgos - 201818326
+
+Estudiande 2: Andres Mugnier - a.mugnier@uniandes.edu.co - 201729994
